@@ -21,20 +21,24 @@ Before you begin, ensure you have Python installed. If not, download and install
 
 ### Installation
 
-# Clone this repository to your local machine
-    ```git clone https://github.com/yourusername/DICOM-to-NIfTI-Converter.git
-    cd DICOM-to-NIfTI-Converter
-
-# Install the necessary Python packages
-    ```pip install -r requirements.txt
-
-# Running the Project
-# Convert DICOM files by running the following command in the terminal:
-    ```python src/main.py
-
-# For visualization of the NIfTI files, use:
-    ```python src/visualize_nifti.py
-
+Clone this repository to your local machine
+```
+git clone https://github.com/yourusername/DICOM-to-NIfTI-Converter.git
+cd DICOM-to-NIfTI-Converter
+```
+Install the necessary Python packages
+```
+pip install -r requirements.txt
+```
+Running the Project
+Convert DICOM files by running the following command in the terminal:
+```
+python src/main.py
+```
+For visualization of the NIfTI files, use:
+```
+python src/visualize_nifti.py
+```
 
 
 Built With
