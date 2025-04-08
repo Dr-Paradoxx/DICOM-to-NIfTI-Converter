@@ -2,6 +2,13 @@
 
 This repository hosts tools dedicated to converting DICOM medical imaging files from PET and CT scans into NIfTI format, focusing on applications in cancer detection, particularly for analyzing metastasis to lymph nodes.
 
+![Screen Recording 2025-04-08 at 3 09 23 PM](https://github.com/user-attachments/assets/a6e7b724-15a2-42c8-8f02-119150ef4cfd)
+
+![Screen Recording 2025-04-08 at 3 12 30 PM](https://github.com/user-attachments/assets/8dc36595-12a2-4ae2-bea2-dbe30ac6dcf0)
+
+![Screen Recording 2025-04-08 at 3 13 46 PM](https://github.com/user-attachments/assets/128a9e5b-2b1d-4d5c-87d8-8e861719df7f)
+
+
 ## Introduction
 
 Medical imaging is crucial in diagnosing and monitoring various diseases, with significant emphasis on cancer. DICOM (Digital Imaging and Communications in Medicine) is the standard format used across medical imaging equipment and software. Converting these images into the NIfTI format allows for more advanced processing and analysis, especially using automated machine learning and deep learning techniques, which can significantly aid in the detection and monitoring of cancer progression.
